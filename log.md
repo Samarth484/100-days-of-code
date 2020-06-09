@@ -27,4 +27,13 @@
   This is something that I'd state herein in the thought section of this day as well, because there are many JS components that need to be brushed on a daily basis to maintain the connectivity.
 **Link(s) to work**: [ConFuSion](https://github.com/Samarth484/ConFuSionBonAppetit)
 
+### Day 2: June 9, 2020 
+##### 
+
+**Today's Progress**: Completed the ToDo List that I was working on! Hosted it live on the internet! A full fledged backend supported website!
+
+**Thoughts**: I really need to brush up more and more or else these things will surely get wiped offf from mind!
+  This is something that I'd state herein in the thought section of this day as well, because there are many JS components that need to be brushed on a daily basis to maintain the connectivity. Also the hosting process needs to be mastered!
+**Link(s) to work**: No link would be uploaded today because the work contains personal data therein and is made for self use in its version 1.0
+
 
