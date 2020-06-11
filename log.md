@@ -45,4 +45,12 @@
 **Thoughts**:I enjoyed what I did, moreover this was a great experience! The journey is almost done, deployment remains
 **Link(s) to work**: [SamBlog] https://github.com/Samarth484/SamBlog
 
+### Day 4: June 11, 2020 
+##### 
+
+**Today's Progress**: Did Dynamic Programming Problems
+
+**Thoughts**: DSA needs to be kept in touch with, else this is soemthing which will not even bestow the slightest hint to the mind that it's wiped off from the mind
+**Link(s) to work**: [SamBlog] https://github.com/Samarth484/SamBlog
+
 
