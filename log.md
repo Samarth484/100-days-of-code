@@ -53,7 +53,7 @@
 **Thoughts**: DSA needs to be kept in touch with, else this is soemthing which will not even bestow the slightest hint to the mind that it's wiped off from the mind
 **Link(s) to work**: [SamBlog] https://github.com/Samarth484/SamBlog
 
-### Day 4: June 12, 2020 
+### Day 5: June 12, 2020 
 ##### 
 
 **Today's Progress**: Did Dynamic Programming Problems
@@ -61,7 +61,7 @@
 **Thoughts**: DSA needs to be kept in touch with, else this is soemthing which will not even bestow the slightest hint to the mind that it's wiped off from the mind
 **Link(s) to work**: [SamBlog] https://github.com/Samarth484/SamBlog
 
-### Day 4: June 13, 2020 
+### Day 6: June 13, 2020 
 ##### 
 
 **Today's Progress**: Did some scattered stuff and am unable to compile it.
@@ -70,4 +70,10 @@
 Get back to track from tomorrow!
 **Link(s) to work**: NIL.
 
+### Day 7: June 14, 2020 
+##### 
 
+**Today's Progress**: Learnt about Authentication and Security
+
+**Thoughts**: The login process was really very interesting and the hashing etc. was really awesome. Can't wait to use the API of Google or Facebook etc. to facilitate login and registeration even further.
+**Link(s) to work**: [ChupKeSe] https://github.com/Samarth484/ChupKeSe
