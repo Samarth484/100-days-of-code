@@ -77,3 +77,11 @@ Get back to track from tomorrow!
 
 **Thoughts**: The login process was really very interesting and the hashing etc. was really awesome. Can't wait to use the API of Google or Facebook etc. to facilitate login and registeration even further.
 **Link(s) to work**: [ChupKeSe] https://github.com/Samarth484/ChupKeSe
+
+
+### Day 8: June 15, 2020 
+##### 
+
+**Today's Progress**: Completed the Sign In Implemented via Google Sign in API
+**Thoughts**: The login process was really very interesting and the hashing etc. was really awesome. Can't wait to use the API of Google or Facebook etc. to facilitate login and registeration even further.
+**Link(s) to work**: [ChupKeSe] https://github.com/Samarth484/ChupKeSe
