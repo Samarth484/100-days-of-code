@@ -85,3 +85,12 @@ Get back to track from tomorrow!
 **Today's Progress**: Completed the Sign In Implemented via Google Sign in API
 **Thoughts**: The login process was really very interesting and the hashing etc. was really awesome. Can't wait to use the API of Google or Facebook etc. to facilitate login and registeration even further.
 **Link(s) to work**: [ChupKeSe] https://github.com/Samarth484/ChupKeSe
+
+
+### Day 9: June 16 2020 
+##### 
+
+**Today's Progress**: Created an awesome word cloud😎, which decorates the "Hot Buzz!🔥" words in a Cotton Candy of Words!
+**Thoughts**: The project was really cool! Now I am gaining confidence that I too can code the machine to work at my command and make it work for me just the way I want it to!
+  Python is aweosme! and so is the entire domain of Aritificial Intelligence in general!
+**Link(s) to work**: [SamWordCloud] https://github.com/Samarth484/SamWordCloud
