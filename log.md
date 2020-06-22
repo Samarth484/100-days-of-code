@@ -111,3 +111,12 @@ Get back to track from tomorrow!
 **Link(s) to work**: [ReactingReact] https://github.com/Samarth484/Reacting-React
                    : [ReactProps] https://github.com/Samarth484/ReactProps
                    
+                   
+ ### Day 15: June 22 2020 
+##### 
+
+**Today's Progress**: Data Structures and Alogrithm
+**Thoughts**: Maja aaya! Fading algos, got some substance!
+  
+**Link(s) to work**: NIL
+                   
