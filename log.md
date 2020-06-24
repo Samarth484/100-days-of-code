@@ -120,3 +120,18 @@ Get back to track from tomorrow!
   
 **Link(s) to work**: NIL
                    
+                   
+  ### Day 16: June 23 2020 
+##### 
+
+**Today's Progress**: Worked on React, found a Bug on Facebook's react, but later found that the bug was in me! Lol😂
+**Thoughts**:Good Day.
+**Link(s) to work**: [Emojipedia] https://github.com/Samarth484/emojipedia
+
+
+### Day 17: June 24 2020 
+##### 
+
+**Today's Progress**: NIL WORST DAY BY FAR
+**Thoughts**: PLAN EACH DAY, ACHE SE
+**Link(s) to work**: NIL
