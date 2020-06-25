@@ -135,3 +135,11 @@ Get back to track from tomorrow!
 **Today's Progress**: NIL WORST DAY BY FAR
 **Thoughts**: PLAN EACH DAY, ACHE SE
 **Link(s) to work**: NIL
+
+
+### Day 17: June 25 2020 
+##### 
+
+**Today's Progress**: React, but bhot kam- dedicated the entire day to GOOGLE DSC OMG, counting this day too as Day 17
+**Thoughts**:DSC sessions were good!, but khud ka curriculum got distorted, ab kal se ache se, 
+**Link(s) to work**: [React-Login] https://github.com/Samarth484/react-login
