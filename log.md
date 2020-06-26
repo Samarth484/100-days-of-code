@@ -143,3 +143,10 @@ Get back to track from tomorrow!
 **Today's Progress**: React, but bhot kam- dedicated the entire day to GOOGLE DSC OMG, counting this day too as Day 17
 **Thoughts**:DSC sessions were good!, but khud ka curriculum got distorted, ab kal se ache se, 
 **Link(s) to work**: [React-Login] https://github.com/Samarth484/react-login
+
+### Day 18: June 26 2020 
+##### 
+
+**Today's Progress**: React, but aaj bhi less than expectation
+**Thoughts**:I am wasting days! Need to burn the midnight oil aaur zyaada ache se
+**Link(s) to work**: [React-Form] https://github.com/Samarth484/react-form
