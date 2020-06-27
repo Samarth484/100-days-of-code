@@ -150,3 +150,11 @@ Get back to track from tomorrow!
 **Today's Progress**: React, but aaj bhi less than expectation
 **Thoughts**:I am wasting days! Need to burn the midnight oil aaur zyaada ache se
 **Link(s) to work**: [React-Form] https://github.com/Samarth484/react-form
+
+
+### Day 19: June 27 2020 
+##### 
+
+**Today's Progress**: React, but aaj bhi less than expectation, aaj only half time dedicated, watched the movie Shudh Desi Romance
+**Thoughts**:AISE NAHI HOGA>>>> TIME WASTE IS GAINING AN EXPONENTIAL CURVE WITH EACH PASSING DAY
+**Link(s) to work**: [Changing Complex State] https://github.com/Samarth484/Changing-Complex-State
