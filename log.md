@@ -158,3 +158,12 @@ Get back to track from tomorrow!
 **Today's Progress**: React, but aaj bhi less than expectation, aaj only half time dedicated, watched the movie Shudh Desi Romance
 **Thoughts**:AISE NAHI HOGA>>>> TIME WASTE IS GAINING AN EXPONENTIAL CURVE WITH EACH PASSING DAY
 **Link(s) to work**: [Changing Complex State] https://github.com/Samarth484/Changing-Complex-State
+
+### Day 19: June 28 2020 
+##### 
+
+**Today's Progress**: BLANK
+##### 
+
+### Day 19: June 29 2020 
+**Today's Progress**: BLANK
