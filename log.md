@@ -170,3 +170,6 @@ Get back to track from tomorrow!
 
 ### Day 19: June 30 2020 
 **Today's Progress**: ReactJS
+
+### Day 20 to 26 : June 30 2020 to July 12 2020
+**Today's Progress**: This time was a bit offtrack, nonetheless there were few constructive hours as well... but this was a dark spot on this journey...
